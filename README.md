@@ -1,5 +1,5 @@
 # 🙋‍♂️ Name  
-**Muhammad Akib Anjum**
+<h1>**Muhammad Akib Anjum**</h1>
 
 <p align="center">
   <img src="banner.png" alt="Banner" />
