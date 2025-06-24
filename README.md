@@ -3,11 +3,11 @@
   <img src="banner.png" alt="Banner" />
 </p>
 
-# 🙋‍♂️ Name  
-<h3>Muhammad Akib Anjum</h3>
-
 # 💫 About Me:
 I am a passionate **MERN Stack Developer** with a solid foundation in front-end and back-end development. With hands-on experience in HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js, Express.js, and MongoDB, I specialize in building full-stack web applications that are responsive, scalable, and secure. I also integrate Firebase for real-time features and authentication, and implement JWT for robust user authorization.<br><br>Beyond web development, I have a working knowledge of Java and C++, giving me a strong grasp of object-oriented programming and data structures, which I apply to solve complex problems efficiently.<br><br>I'm always eager to learn and stay updated with the latest technologies to build innovative solutions and deliver high-quality user experiences.
+
+# 🙋‍♂️ Name  
+<h3>Muhammad Akib Anjum</h3>
 
 ## 👨‍💼 Designation:
 **MERN Stack Developer**
