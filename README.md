@@ -13,8 +13,12 @@ I am a passionate **MERN Stack Developer** with a solid foundation in front-end 
 **MERN Stack Developer**
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akib.anjum.5)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akibanj2017@gmail.com) 
+
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/muhammad-akib)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></p>](https://www.facebook.com/akib.anjum.5)
+
+<br />
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -37,11 +41,10 @@ I am a passionate **MERN Stack Developer** with a solid foundation in front-end 
 
 ## :eyes: Current overview
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
+### 🔭 I’m a - Student of American International University -  Bangladesh (CSE). 
+### 🌱 I’m exploring - NEXT.js . 
 ### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### ⚡ Fun fact - I love to make a website and I can speak 3 languages.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Akib-dev1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
