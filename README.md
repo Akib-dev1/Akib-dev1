@@ -16,7 +16,7 @@ I am a passionate **MERN Stack Developer** with a solid foundation in front-end 
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/muhammad-akib)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></p>](https://www.facebook.com/akib.anjum.5)
+<p align="center"><a href="https://www.linkedin.com/in/muhammad-akib/"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></a><a href="https://www.facebook.com/akib.anjum.5"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></a></p>
 
 <br />
 
